@@ -1,0 +1,166 @@
+.luck-1 {
+    background: linear-gradient(rgb(125, 125, 125), rgb(100, 100, 100), rgb(125, 125, 125))
+}
+.luck-1-text {
+    color: rgb(225, 225, 225);
+}
+
+.luck-2 {
+    background: linear-gradient(
+        rgb(145, 225, 145), rgb(120, 225, 120), rgb(145, 225, 145)
+    )
+}
+.luck-2-text {
+    color: green;
+}
+
+.luck-3 {
+    background: linear-gradient(
+        #ffb380, #ff9340, #ffb380
+    )
+}
+
+.luck-3-text {
+    color: #ff4900
+}
+
+.luck-4 {
+    background: linear-gradient(
+        #6af5ff, #80c1ff, #6af5ff
+    )
+}
+
+.luck-4-text {
+    color: #15b6ff;
+}
+
+.luck-5 {
+    background: linear-gradient(
+        #f880ff, #ba80ff, #f880ff
+    )
+}
+
+.luck-5-text {
+    color: #ce00ff
+}
+
+.luck-6 {
+    background: linear-gradient(
+        #ff6a6a, #ff5574, #ff7455, #ff5574, #ff6a6a
+    )
+}
+
+.luck-6-text {
+    color: #ff000a;
+}
+
+.luck-7 {
+    background: linear-gradient(
+        #2bff96, #ba80ff, #2bff96
+    )
+}
+
+.luck-7-text {
+    background: linear-gradient( 
+        to right, #00ff00, #a400ff, #00ff00
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 4vw;
+}
+
+.luck-8 {
+    background: linear-gradient(
+        #000000, #130022, #000000
+    );
+    border: .75vw solid white;
+}
+
+.luck-8-text {
+    background: linear-gradient( 
+        to bottom, #ffffff, #8c8c8c
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 4vw;
+}
+
+.luck-9 {
+    background: linear-gradient(
+        #545600, #54560e, #545600
+    );
+    border-top: .75vw solid yellow;
+}
+
+.luck-9-text {
+    background: linear-gradient( 
+        to right, #e3b126, #ffff00, #e3b126
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 4vw;
+}
+
+.luck-10 {
+    background: linear-gradient(
+        #570400, #000000
+    );
+    border-bottom: .75vw solid red;
+}
+
+.luck-10-text {
+    background: linear-gradient( 
+        to bottom, #ff0a00, #af0700, #ff0a00
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 4vw;
+}
+
+.luck-11 {
+    background: linear-gradient(
+        #004100, #000000
+    );
+    border-bottom: .75vw solid green;
+}
+
+.luck-11-text {
+    background: linear-gradient( 
+        to bottom, green, #00c723, green
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 4vw;
+}
+
+.luck-12 {
+    background: linear-gradient(
+        cyan, #000000
+    );
+    border-bottom: .75vw solid cyan;
+}
+
+.luck-12-text {
+    background: linear-gradient( 
+        to bottom, cyan, #00bcbc, cyan
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 4vw;
+}
+
+.luck-13 {
+    background: linear-gradient(
+        #8f00ff, #000000
+    );
+    border-bottom: .75vw solid #8f00ff;
+}
+
+.luck-13-text {
+    background: linear-gradient( 
+        to bottom, #8f00ff, #6e00c4, #8f00ff
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 4vw;
+  }
